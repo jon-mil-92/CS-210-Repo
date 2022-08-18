@@ -28,7 +28,7 @@ I am most proud of the implementation of the histogram. I implemented it in such
 
 > Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
 
-There are some changes that I could do to enhance this program code. The first change that I would do is to implement type-checking for the user input. This way if the user accidentally entered something other than an integer, then an error code would be thrown and the program would continue. Another enhancement to the program code would be to implement a Histogram class that displays a formatted histogram for a given data file. There could also be a FileContentConsoleEcho class that would echo the contents of a formatted file to the console (such as in Option 1 of this program). This would provide futher code encapsulation, delivering enhanced readability and reusability.
+There are some changes that I could do to enhance this program code. The first change that I would do is to implement type-checking for the user input. This way if the user accidentally entered something other than an integer, then an error code would be thrown and the program would continue. Another enhancement to the program code would be to implement a Histogram class that displays a formatted histogram for a given data file. There could also be a PrintWordAndFrequency class that would output each word in a given file and the amount of times it appears in the file (such as in Option 1 of this program). This would provide futher code encapsulation, delivering enhanced readability and reusability.
 
 > Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
 
