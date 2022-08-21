@@ -2,7 +2,7 @@
 
 ## Program Summary
 
-This program utilizes both C++ and Python to track grocery items and their frequency of purchase from an "items.txt" file that lists all items purchased in a given day along with their frequency of purchase. This program displays a menu with four user-selectable options until the user decides to exit the program. The first option allows the user to display a list of all items purchased in a given day along with the number of times each item was purchased. The second option allows the user to get the purchase frequency for a specific grocery item. The third option allows the user to display a text-based histogram listing all items purchased in a given day, along with a representation of the number of times each item was purchased. And finally, the last option allows the user to exit the program.
+This program utilizes both C++ and Python to track grocery items and their frequency of purchase from an "items.txt" file that lists all items purchased in a given day. This program displays a menu with four user-selectable options until the user decides to exit the program. The first option allows the user to display a list of all items purchased in a given day along with the number of times each item was purchased. The second option allows the user to get the purchase frequency for a specific grocery item. The third option allows the user to display a text-based histogram listing all items purchased in a given day, along with a representation of the number of times each item was purchased. And finally, the last option allows the user to exit the program.
 
 ## Program Usage Preview
 
